@@ -22,4 +22,3 @@ Monitored real-time security alerts, performed triage, and investigated incident
 - Endpoint Detection and Response (EDR)
 - SOAR Automation
 
-🔗 [More details and visuals](https://github.com/RicardoServilla)
